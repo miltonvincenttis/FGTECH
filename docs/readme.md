@@ -12,3 +12,5 @@
 * Git Lens
     * Te dá dentro do editor (de forma discreta) dicas de uso do arquivo corrente aberto no editor, relativo ao repositorio que está o codigo.
 
+* Unsplash: Images royltfree: https://unsplash.com/
+    
