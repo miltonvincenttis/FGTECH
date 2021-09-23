@@ -61,7 +61,7 @@ header{
     font-size: 2rem;
     text-shadow: .2rem .2rem rgba(0,0,0,0.4);
     margin-bottom: 2rem;
-    /*animation: moveBanner 1s;*/
+    /*animation: moveBanner 1s;*/ /* desabilitei isso pq acho infantil ficar movendo texto */
 }
 
 .banner button{
@@ -76,7 +76,7 @@ header{
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    /*animation: moveBanner 1s;*/
+    /*animation: moveBanner 1s;*/ /* desabilitei isso pq acho infantil ficar movendo texto */
 }
 
 @keyframes moveBanner {
